@@ -1,5 +1,5 @@
 import { getAllPostIds, getPostData } from "../../lib/posts";
-import Link from "next/Link"
+import Link from "next/link"
 import Layout from "../../components/layout";
 
 
